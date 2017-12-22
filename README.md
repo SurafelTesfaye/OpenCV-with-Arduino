@@ -1,2 +1,3 @@
 # Opencv-face-with-Arduino
-Face detection for blinking an LED
+
+You can find the demo on youtube. video link https://www.youtube.com/watch?v=Zhuh3iWxCHI
